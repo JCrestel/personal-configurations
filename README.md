@@ -6,7 +6,7 @@ My personal configurations for dev purpose (Windows Terminal, VS Code, Intellij)
 
 The theme i use everywhere is : [North](https://www.nordtheme.com/ports/visual-studio-code)  
 
-The font i use almost everywhere is : [Fira Code](https://github.com/tonsky/FiraCode)
+The font i use almost everywhere is (with programming ligatures) : [Fira Code](https://github.com/tonsky/FiraCode)
 
 ## Windows Terminal
 
@@ -16,3 +16,10 @@ Here a preview of my terminal :
 
 ![Terminal preview](./img/terminal.png)
 
+## VS Code
+
+// TODO Add list of extensions
+
+## Intellij
+
+// TODO Add list of plugins
